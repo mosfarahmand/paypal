@@ -1,1 +1,1 @@
-web: gunicorn djangopaypal_client.wsgi
+web: gunicorn djangopaypal_client.wsgi —-log-file -
