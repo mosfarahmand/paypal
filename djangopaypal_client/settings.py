@@ -26,7 +26,9 @@ SECRET_KEY = 'c5%r461+qett2ao85364cm9omou)xob(+vzj-werh&&o$^e2@l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://paypal-app-poc.herokuapp.com/',
+'localhost',
+'127.0.0.1']
 
 
 # Application definition
