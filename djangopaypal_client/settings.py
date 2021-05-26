@@ -72,7 +72,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'djangopaypal_client.wsgi.application'
+WSGI_APPLICATION = 'djangopaypal_client.wsgi'
 
 
 # Database
